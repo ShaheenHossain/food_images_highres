@@ -1,0 +1,89 @@
+External ID,Name,Cost,Sales Price,Barcode,Visible on current website,Image Url
+,Prince Lascha Semai 500gm,100,120,802565000001,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/1.1_Prince_Lascha_Semai_500gm.jpg
+,Prince Lascha Semai 200gm,26,35,802565000002,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/1.2_Prince_Lascha_Semai_200gm.jpg
+,Prince Super Vermichilli Semai 350gm,29,38,802565000003,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/1.3_Prince_Super_Vermichilli_350gm.jpg
+,Prince Vermichilli Semai 200gm,22,30,802565000004,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/1.4_Prince_Vermichilli_Semai_200gm.jpg
+,Prince Special Square Toast 350gm,40.62,50,802565000005,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/1.5_Prince_Special_Square_Toast_350gm.jpg
+,Prince Noly Toast 350gm,40.62,50,802565000006,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/2.1_Prince_Noly_Toast_350gm.jpg
+,Prince Special Chanachur 350gm,48,55,802565000007,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/2.2_Prince_Special_Chanachur_350gm.jpg
+,Prince Special Chanachur 170gm,25,30,802565000008,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/3.1_Prince_Special_Chanachur_170gm.jpg
+,Prince Jhal Chanachur 350gm,40,48,802565000009,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/3.2_Prince_Jhal_Chanachur_350gm.jpg
+,Prince Jhal Chanachur 170gm,21,27,802565000010,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/3.3_Prince_Jhal_Chanachur_170gm.jpg
+,Prince Chanachur 70gm,11,14,802565000011,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/3.4_Prince_Chanachur_70gm.jpg
+,Prince Chanachur 25gm,4,5,802565000012,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/3.5_Prince_Chanachur_25gm.jpg
+,Prince Chira Vaja 100gm,12,15,802565000013,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/3.6_Prince_Chira_Vaja_100gm.jpg
+,Prince Chira Vaja 30gm,5.2,6,802565000014,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/3.7_Prince_Chira_Vaja_30gm.jpg
+,Prince Dal Vaja 20gm,4,5,802565000015,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/3.8_Prince_Dal_Vaja_20gm.jpg
+,Prince Motor Vaja 22gm,4,5,802565000016,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/3.9_Prince_Motor_Vaja_22gm.jpg
+,Prince Pani 600ml ,9.5,15,802565000017,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/4.1_Prince_Pani_600ml.jpg
+,Prince Pani 1 Ltr ,12,20,802565000018,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/4.1_Prince_Pani_1_Ltr.jpg
+,Prince Pani 1.5 Ltr ,16,25,802565000019,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/4.2_Prince_Pani_1.5_Ltr.jpg
+,Prince Pani 2 Ltr ,21,30,802565000020,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/4.3_Prince_Pani_2_Ltr.jpg
+,Prince Pani 5 Ltr ,49,60,802565000021,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/4.4_Prince_Pani_5_Ltr.jpg
+,Prince Box Noodles 300 gm  ,25,35,802565000022,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/5.1_Prince_Box_Noodles_300gm.jpg
+,Prince Egg Noodles 180 gm  ,15,18,802565000023,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/5.2_Prince_Egg_Noodles_180gm.jpg
+,Prince Egg Noodles 150 gm  ,13,16,802565000024,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/5.3_Prince_Egg_Noodles_150gm.jpg
+,Prince Berbecue Noodles 180 gm  ,16,19,802565000025,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/5.4_Prince_Barbecue_Noodles_180gm.jpg
+,Prince Tandury Chic Noodles 180gm  ,16,19,802565000026,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/5.5_Prince_Tandury_Chic_Noodles_180gm.jpg
+,Prince Diabetic Orange Jelly 500 gm,90,110,802565000027,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/6.1_Prince_Diabetic_Orange_Jelly_500gm.jpg
+,Prince Diabetic Apple Jelly 500 gm,90,110,802565000028,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/6.2_Prince_Diabetic_Apple_Jelly_500gm.jpg
+,Prince Orange Jelly 500 gm,85,100,802565000029,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/6.3_Prince_Orange_Jelly_500gm.jpg
+,Prince Orange Jelly 250 gm,50,60,802565000030,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/6.4_Prince_Orange_Jelly_250gm.jpg
+,Prince Grape Jelly 500 gm,85,100,802565000031,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/6.5_Prince_Grape_Jelly_500gm.jpg
+,Prince Grape Jelly 250 gm,50,60,802565000032,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/6.6_Prince_Grape_Jelly_250gm.jpg
+,Prince Apple Jelly 500 gm,85,100,802565000033,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/6.7_Prince_Apple_Jelly_500gm.jpg
+,Prince Apple Jelly 250 gm,50,60,802565000034,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/6.8_Prince_Apple_Jelly_250gm.jpg
+,Prince Pineapple Jelly 500 gm,85,100,802565000035,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/6.9_Prince_Pineapple_Jelly_500gm.jpg
+,Prince Pineapple Jelly 250 gm,50,60,802565000036,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/6.11_Prince_Pineapple_Jelly_250gm.jpg
+,Prince Mango Jam 500 gm,85,100,802565000037,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/6.12_Prince_Mango_Jam_500gm.jpg
+,Prince Mango Jam 250 gm,50,60,802565000038,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/6.13_Prince_Mango_Jam_250gm.jpg
+,Prince Mixed Fruit Jam 500 gm,85,100,802565000039,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/6.14_Prince_Mixed_Fruit_Jam_500gm.jpg
+,Prince Mixed Fruit Jam 250 gm,50,60,802565000040,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/6.15_Prince_Mixed_Fruit_Jam_250gm.jpg
+,Prince Tatul Chatney 20 gm,4,5,802565000041,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/7.1_Prince_Tatul_Chatney_20gm.jpg
+,Prince Mango Pickle 400 gm,85,100,802565000042,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/7.2_Prince_Mango_Pickle_400gm.jpg
+,Prince Olive Pickle 400 gm,85,100,802565000043,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/7.3_Prince_Olive_Pickle_400gm.jpg
+,Prince Mixed Pickle 400 gm,85,100,802565000044,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/7.4_Prince_Mixed_Pickle_400gm.jpg
+,Prince White Vinegar 600 ml,35,45,802565000045,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/8.1_Prince_White_Vinegar_600_ml.jpg
+,Prince White Vinegar 400 ml,28,35,802565000046,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/8.2_Prince_White_Vinegar_400_ml.jpg
+,Prince Sauce/Ketchup 4 Ltr. ,375,415,802565000047,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/9.1_Prince_Sauce/Ketchup_4_Ltr.jpg
+,Prince Tomato Sauce (Mini) 10 gm ,1.63,3,802565000048,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/9.2_Prince_Tomato_Sauce_Mini_10gm.jpg
+,Prince Tomato Sauce 1000 gm ,148,175,802565000049,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/9.3_Prince_Tomato_Sauce_1000gm.jpg
+,Prince Tomato Sauce 340 gm  ,58,75,802565000050,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/9.4_Prince_Tomato_Sauce_340gm.jpg
+,Prince Tomato Ketchup 1000 gm ,148,175,802565000051,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/10.1_Prince_Tomato_Ketchup_1000gm.jpg
+,Prince Tomato Ketchup 340 gm  ,58,75,802565000052,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/10.2_Prince_Tomato_Ketchup_340gm.jpg
+,Prince Chili Sauce 1000 gm ,148,175,802565000053,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/11.1_Prince_Chili_Sauce_1000gm.jpg
+,Prince Chili Sauce 340 gm  ,58,75,802565000054,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/11.2_Prince_Chili_Sauce_340gm.jpg
+,Prince Sweet  Chilli Sauce 340 gm,90,110,802565000055,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/11.3_Prince_Sweet_Chilli_Sauce_340gm.jpg
+,Prince Green Chilli Sauce 340 gm,57,70,802565000056,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/11.4_Prince_Green_Chilli_Sauce_340gm.jpg
+,Prince Soya Sauce 500 ml  ,48,60,802565000057,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/12.1_Prince_Soya_Sauce_500ml.jpg
+,Prince Soya Sauce 250 ml  ,33,40,802565000058,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/12.2_Prince_Soya_Sauce_250ml.jpg
+,Prince Mustard Oil 1000 ml,195,210,802565000059,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/13.1_Prince_Mustard_Oil_1000ml.jpg
+,Prince Mustard Oil 500 ml,102,110,802565000060,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/13.2_Prince_Mustard_Oil_500ml.jpg
+,Prince Mustard Oil 200 ml,45,55,802565000061,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/13.3_Prince_Mustard_Oil_200ml.jpg
+,Prince Mustard Oil 80 ml,21,25,802565000062,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/13.4_Prince_Mustard_Oil_80ml.jpg
+,Prince Honey 500 gm,155,178,802565000063,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/14.1_Prince_Honey_500gm.jpg
+,Prince Honey 250 gm,80,95,802565000064,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/14.2_Prince_Honey_250gm.jpg
+,Prince Honey 125 gm,45,55,802565000065,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/14.3_Prince_Honey_125gm.jpg
+,Prince Honey 50 gm,26,32,802565000066,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/14.4_Prince_Honey_50gm.jpg
+,Prince Ishubgular vushi 50 gmn,38,45,802565000067,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/15.1_Prince_Ishubgular_vushi_50gm.jpg
+,Prince Ishubgular vushi 25 gmn,20,25,802565000068,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/15.2_Prince_Ishubgular_vushi_25gm.jpg
+,prince Golap jall 180 ml,12,15,802565000069,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/16.1_Prince_Golap_jall_180_ml.jpg
+,Prince Baking Powder 150 gm,48,60,802565000070,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/17.1_Prince_Baking_Powder_150gm.jpg
+,Prince Custard Powder 150 gm,48,60,802565000071,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/17.2_Prince_Custard_Powder_150gm.jpg
+,Prince Cornflour 150 gm,48,60,802565000072,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/17.3_Prince_Cornflour_150gm.jpg
+,Prince Icing Sugar 150 gm,56,70,802565000073,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/17.4_Prince_Icing_Sugar_150gm.jpg
+,Prince Custard(Dora) Cake-Vanilla,7.5,10,802565000074,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/18.1_Prince_DoraCake_Vanilla_Custard.jpg
+,Prince Custard(Dora) Cake-Chocolate,7.5,10,802565000075,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/18.2_Prince_DoraCake_Chocolate_Custard.jpg
+,Dora Cake ( 20 pcs in Box),7.25,10,802565000076,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/18.3_Prince_Dora_Cake_20pcs_in_Box.jpg
+,Prince Dora Soft Cake,4,5,802565000077,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/18.4_Prince_Dora_Soft_Cake_20gm.jpg
+,Prince Cup Cake,6.5,8,802565000078,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/18.5_Prince_Doremi_Cup_Cake_35gm.jpg
+,Prince Cookies.Sweet Biscuit 250 gm,40,50,802565000079,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/19.1_Prince_Cookies_Sweet_Biscuit_250gm.jpg
+,Prince cookies.Sweet Biscuit 130 gm,20,25,802565000080,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/19.2_Prince_cookies_Sweet_Biscuit_130gm.jpg
+,Prince Salty Biscuit 250 gm,40,50,802565000081,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/19.3_Prince_Salty_Biscuit_250gm.jpg
+,Prince Salty Biscuit 130 gm,20,25,802565000082,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/19.4_Prince_Salty_Biscuit_130gm.jpg
+,Prince Timepass Biscuit 480gm,84,100,802565000083,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/19.5_Prince_Timepass_Biscuit_480gm.jpg
+,Prince Timepass Biscuit 240gm,46,55,802565000084,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/19.6_Prince_Timepass_Biscuit_240gm.jpg
+,Prince Timepass (Mini) Vanilla 20gm,3,4,802565000085,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/19.7_Prince_Timepass_Mini_Vanilla_20gm.jpg
+,Prince Timepass (Mini) Choco 20gm,3,4,802565000086,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/19.8_Prince_Timepass_Mini_Choco_20gm.jpg
+,Prince Orange Drinks  180 ml,8,10,802565000087,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/20.1_Prince_Orange_Drinks_180ml.jpg
+,Prince Litchi Drinks 180 ml,8,10,802565000088,TRUE,https://raw.githubusercontent.com/ShaheenHossain/food_images/master/20.2_Prince_Litchi_Drinks_180ml.jpg
